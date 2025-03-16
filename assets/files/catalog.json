@@ -1,0 +1,77 @@
+{
+  "products" :
+          [
+            {
+              "id" : 1,
+              "name" : "iPhone 12 Pro",
+              "desc" : "Apple iPhone 12th Gen",
+              "price" : 999,
+              "color" : "#33505a",
+              "image" :
+              "https://imgs.search.brave.com/jqVGb2uv1SWKSHmodNcLAbLtCzDApjitEMIAn3RoHf4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/OTEtaW1nLmNvbS9n/YWxsZXJ5X2ltYWdl/c191cGxvYWRzLzYv/Zi82ZjBlNDRkNGI3/MDdlMDFjYjFiOTJi/ZDYwZTViOWIzN2Fj/ZTFmZDI1LmpwZz90/cj1oLTU1MCx3LTAs/Yy1hdF9tYXg"
+            },
+            {
+              "id" : 2,
+              "name" : "M1 Macbook Air",
+              "desc" : "Apple Macbook air with apple silicon",
+              "price" : 1099,
+              "color" : "#e0bFae",
+              "image" :
+                      "https://imgs.search.brave.com/EXRuAaF-x_DZIu9lU2wZtPbbDRVOpTOYC047RTltttg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RmL01hY19NaW5p/X00xX2NoaXAuanBn"
+            },
+            {
+              "id" : 3,
+              "name" : "M1 Macbook Air",
+              "desc" : "Apple Macbook air with apple silicon",
+              "price" : 1099,
+              "color" : "#e0bfae",
+              "image" :
+                      "https://imgs.search.brave.com/EXRuAaF-x_DZIu9lU2wZtPbbDRVOpTOYC047RTltttg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RmL01hY19NaW5p/X00xX2NoaXAuanBn"
+            },
+            {
+              "id" : 4,
+              "name" : "Playstation 5",
+              "desc" : "Sony Playstation 5th generation",
+              "price" : 500,
+              "color" : "#544ee4",
+              "image" :
+                      "https://imgs.search.brave.com/DFRhryJxW1i5jUyoilX0P-gJH4ez0dK3_UxrVDuRE6I/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/MjIyOTc4NDU3NzUt/NWZmM2ZlZjcxZDEz/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4Tm54OGNH/eGhlWE4wWVhScGIy/NGxNakExZkdWdWZE/QjhmREI4Zkh3dw.jpeg"
+            },
+            {
+              "id" : 5,
+              "name" : "Airpods Pro",
+              "desc" : "Apple Airpods Pro 1st generation",
+              "price" : 200,
+              "color" : "#e3e4e9",
+              "image" :
+                      "https://imgs.search.brave.com/FNunajudYX_pnnDJ_1xAM1bX7SRnLVCwvjLPqmUkMEE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/NTI3ODMwYTgtOWY2/Ny00YjI4LTg0NWUt/NjcwZDEwYTc3YmEy/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn.jpeg"
+            },
+            {
+              "id" : 6,
+              "name" : "iPad Pro",
+              "desc" : "Apple iPad Pro 2020 edition",
+              "price" : 799,
+              "color" : "#f73984",
+              "image" :
+                      "https://imgs.search.brave.com/nsZCvI9eg15krfJTvpUWUT5GOK5tRega5IqdQhJJg9k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFMK0RHZEh5V0wu/anBn"
+            },
+            {
+              "id" : 7,
+              "name" : "Galaxy S21 Ultra",
+              "desc" : "Samsung Galaxy S21 Ultra 2021 edition",
+              "price" : 1299,
+              "color" : "#1c1c1c",
+              "image" :
+                      "https://imgs.search.brave.com/V4eLzPdM4ttbdxcA08hxPN4JKMjEZlBpCSeqdyUUxJc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFab3p3M1ZCMUwu/anBn"
+            },
+            {
+              "id" : 8,
+              "name" : "Galaxy S21",
+              "desc" : "Samsung Galaxy S21 2021 edition",
+              "price" : 899,
+              "color" : "#7c95eb",
+              "image" :
+                      "https://imgs.search.brave.com/dDGPB5fF6ljzQ6WcLJd4I1JHEJrE1_ZPxT1KM3hyl-U/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWRlYWxvLmNvbS9m/b2xkZXIvUHJvZHVj/dC8yMDEwMjEvNi8y/MDEwMjE2NjkvczRf/cHJvZHVrdGJpbGRf/bWl0dGVsZ3Jvc3Mv/c2Ftc3VuZy1nYWxh/eHktczIxLTVnLWVu/dGVycHJpc2UtZWRp/dGlvbi0xMjgtZ28t/Z3Jpcy5qcGc"
+            }
+          ]
+}
