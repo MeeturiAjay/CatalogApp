@@ -11,6 +11,35 @@ The **Catalog Application** offers a smooth and interactive shopping experience,
 - **Interactive Cart**: View products added to the cart and track the total price in real-time.
 - **Floating Action Button**: Access the cart instantly through an easy-to-use floating action button, providing quick navigation to the cart details.
 
+## Screenshots
+
+### Login Screens
+
+#### Login Screen 1
+[![Login Screen 1](CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-172914.jpg)](https://raw.githubusercontent.com/MeeturiAjay/CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-172914.jpg)
+
+#### Login Screen 2
+[![Login Screen 2](CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-172947.jpg)](https://raw.githubusercontent.com/MeeturiAjay/CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-172947.jpg)
+
+#### Login Screen 3
+[![Login Screen 3](CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-172937.jpg)](https://raw.githubusercontent.com/MeeturiAjay/CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-172937.jpg)
+
+### Homepage
+
+#### Homepage View
+[![Homepage](CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-173007.jpg)](https://raw.githubusercontent.com/MeeturiAjay/CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-173007.jpg)
+
+### Cart Screens
+
+#### Cart View 1
+[![Cart View 1](CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-173013.jpg)](https://raw.githubusercontent.com/MeeturiAjay/CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-173013.jpg)
+
+#### Cart View 2
+[![Cart View 2](CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-173017.jpg)](https://raw.githubusercontent.com/MeeturiAjay/CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-173017.jpg)
+
+#### Cart View 3
+[![Cart View 3](CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-173033.jpg)](https://raw.githubusercontent.com/MeeturiAjay/CatalogApp/refs/heads/main/assets/Screenshots/Screenshot_20250316-173033.jpg)
+
 ## Installation Guide
 
 To get started with this project, follow the steps below:
