@@ -1,16 +1,19 @@
-# masterflutter
+# Catalog Application
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This Catalog Application provides a seamless user experience for browsing and managing electronic gadgets. The app includes user authentication with login/signup, password validation (minimum 8 characters), and the ability to add products to a cart. The cart displays the added products along with the total price. Although the "Buy" functionality is not yet implemented, it is displayed for future integration.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication**: Login and signup functionality with password validation (minimum 8 characters).
+- **Product Listing**: Displays electronic gadgets with titles, descriptions, and an "Add to Cart" option.
+- **Cart Management**: Users can view products added to the cart and see the total price.
+- **Floating Action Button**: The cart can be accessed through a floating action button for easy navigation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/MeeturiAjay/CatalogApp
